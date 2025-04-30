@@ -1,4 +1,3 @@
 Heyy All
 I'm Swetha
-URK24CS6005
-swethav24@karunya.edu.in
+You know why i'm mad coz GitHub and git bash are mad
