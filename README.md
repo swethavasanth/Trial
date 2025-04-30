@@ -1,4 +1,4 @@
-Heyy All
+Hello
 I'm Swetha
-URK24CS6005
-swethav24@karunya.edu.in
+Karunya Institute of Sciences and Technology
+shortly called as KITS
