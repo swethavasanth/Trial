@@ -1,7 +1,4 @@
-Hello
-I'm Swetha
-<<<<<<< HEAD
-You know why i'm mad coz GitHub and git bash are mad
+
 =======
 Karunya Institute of Sciences and Technology
 shortly called as KITS
